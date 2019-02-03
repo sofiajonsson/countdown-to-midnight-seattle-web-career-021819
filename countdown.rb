@@ -10,7 +10,6 @@ def countdown (n)
   
   break if n == 0 || n >10
 puts "HAPPY NEW YEAR!"
-end 
 end
 # def countdown_with_sleep (n)
 #   sleep(num_secs)
