@@ -7,7 +7,8 @@ def countdown (n)
    
     n = n - 1
   end
-  while n  break if n == 0 || n >10
+  
+  break if n == 0 || n >10
 puts "HAPPY NEW YEAR!"
 end 
 end
