@@ -6,13 +6,13 @@ def countdown (n)
    n -= 1 
     puts "#{n} SECOND(S)!"
     
-   # break if n ==  
+   break if n ==  12
     
    
 end
-end 
-#puts "HAPPY NEW YEAR!"
-
+ 
+puts "HAPPY NEW YEAR!"
+end
 
 
 
