@@ -6,14 +6,14 @@ def countdown (n)
    
     puts "#{n} SECOND(S)!"
     
-    break if n >10 
+     #break if n == 0 
     n -= 1 
-   
+    
 end
 
-puts "HAPPY NEW YEAR!"
-end
+#puts "HAPPY NEW YEAR!"
 
+end
 
 
 # def countdown_with_sleep (n)
