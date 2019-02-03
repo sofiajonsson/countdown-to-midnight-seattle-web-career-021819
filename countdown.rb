@@ -6,7 +6,7 @@ def countdown (n)
     puts "#{n} SECOND(S)!"
     n -= 1
 end
-elsif n = 12
+  while n = 12
   puts "HAPPY NEW YEAR"
 end 
 end
