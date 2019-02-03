@@ -5,12 +5,12 @@ def countdown (n)
   while n > 1 
     n -= 1 
     puts "#{n} SECOND(S)!"
-   # break if n == 0 
+    break if n == 0 
    
     
 end
 
-#puts "HAPPY NEW YEAR!"
+puts "HAPPY NEW YEAR!"
 
 end
 
