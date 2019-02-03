@@ -6,11 +6,11 @@ def countdown (n)
    
     puts "#{n} SECOND(S)!"
     
-    break if n ==  
+    break if n >10 
     n -= 1 
    
 end
-end 
+
 puts "HAPPY NEW YEAR!"
 end
 
