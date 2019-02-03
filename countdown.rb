@@ -10,10 +10,10 @@ def countdown (n)
     n -= 1 
    
 end
+end 
+puts "HAPPY NEW YEAR!"
 
-#puts "HAPPY NEW YEAR!"
 
-end
 
 
 # def countdown_with_sleep (n)
