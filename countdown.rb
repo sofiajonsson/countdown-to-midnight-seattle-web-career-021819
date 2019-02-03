@@ -4,7 +4,7 @@ def countdown (n)
   n = 10
   while n > 0 
     puts "#{n} SECOND(S)!"
-   break if  n > 10
+   break if  n == 
     n = n - 1
   end
   
